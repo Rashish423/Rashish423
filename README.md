@@ -5,9 +5,10 @@
 
 <h3>Stack I work with</h3>
 <p>
-  <img alt="C" src="https://img.shields.io/badge/%20-C%20-yellowgreen" />
+  <img alt="CPP" src="https://img.shields.io/badge/%20-C%20-yellowgreen" />
+  <img alt="Python" src="https://img.shields.io/badge/%20-Python%20-blue" />
+  <img alt="Rust" src="https://img.shields.io/badge/%20-C%20-yellowgreen" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-0497de?style=flat-square&logo=Java&logoColor=blue" />
-  <img alt="python" src="https://img.shields.io/badge/%20-Python%20-blue" />
   <img alt="SQL" src="https://img.shields.io/badge/%20-SQL%20-orange" />
   <img alt="Firebase" src="https://img.shields.io/badge/%20-Firebase%20-green" />
   <img alt="DS" src="https://img.shields.io/badge/%20-Data Structure%20-orange" />
