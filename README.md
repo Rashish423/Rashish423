@@ -5,10 +5,12 @@
 
 <h3>Stack I work with</h3>
 <p>
-  <img alt="CPP" src="https://img.shields.io/badge/%20-C%20-yellowgreen" />
+  <img alt="CPP" src="https://img.shields.io/badge/%20-CPP%20-yellowgreen" />
   <img alt="Python" src="https://img.shields.io/badge/%20-Python%20-blue" />
-  <img alt="Rust" src="https://img.shields.io/badge/%20-C%20-yellowgreen" />
+  <img alt="Rust" src="https://img.shields.io/badge/%20-RUST%20-yellowgreen" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-0497de?style=flat-square&logo=Java&logoColor=blue" />
+  <img alt="python -m" src="https://img.shields.io/badge/%20Nginx%20-lightgrey" />  
+  <img alt="git" src="https://img.shields.io/badge/-Celery-F05032?style=flat-square&logo=git&logoColor=white" /> 
   <img alt="SQL" src="https://img.shields.io/badge/%20-SQL%20-orange" />
   <img alt="Firebase" src="https://img.shields.io/badge/%20-Firebase%20-green" />
   <img alt="DS" src="https://img.shields.io/badge/%20-Data Structure%20-orange" />
@@ -26,4 +28,4 @@ Info:
 
 - 📫 How to reach me: <b>[Twitter](https://twitter.com/Rashish423), [LinkedIn](https://www.linkedin.com/in/raashish)</b>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend 10+ hours daily on computer to learn and build
+- ⚡ Fun fact: I spend 10+ hours daily on the computer to learn and build
